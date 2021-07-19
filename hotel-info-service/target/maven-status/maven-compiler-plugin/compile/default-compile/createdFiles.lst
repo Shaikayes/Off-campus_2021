@@ -1,0 +1,4 @@
+com\example\demo\HotelInfoServiceApplication.class
+com\example\demo\services\HotelService.class
+com\example\demo\controllers\HotelController.class
+com\example\demo\model\Hotel.class
