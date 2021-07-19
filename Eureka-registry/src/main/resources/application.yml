@@ -1,0 +1,14 @@
+server:
+  port: 6060
+  
+spring:
+  application:
+    name: eureka-server-registry
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://localhost:6060/eureka
+  instance:
+     prefer-ip-address: true
