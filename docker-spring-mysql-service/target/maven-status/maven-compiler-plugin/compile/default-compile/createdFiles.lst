@@ -1,0 +1,5 @@
+com\example\demo\services\TourService.class
+com\example\demo\repos\TourRepository.class
+com\example\demo\controllers\TourController.class
+com\example\demo\DockerSpringMysqlServiceApplication.class
+com\example\demo\entity\Tour.class
